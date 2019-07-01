@@ -8,8 +8,9 @@ SVG badges for things that [Shields](https://shields.io/) and [Badgen](https://b
 
 Displays the code coverage from CodeCov for a folder within a Github repo. e.g
 
-- https://badger.nokome.now.sh/stencila/encoda/src/codecs/docx ![](https://badger.nokome.now.sh/stencila/encoda/src/codecs/docx)
-- https://badger.nokome.now.sh/stencila/dockta ![](https://badger.nokome.now.sh/stencila/encoda/src/codecs/docx)
+- https://badger.nokome.now.sh/codecov-folder/stencila/encoda/src/codecs/docx ![](https://badger.nokome.now.sh/codecov-folder/stencila/encoda/src/codecs/docx)
+
+- https://badger.nokome.now.sh/codecov-folder/stencila/encoda/src/codecs/xlsx ![](https://badger.nokome.now.sh/codecov-folder/stencila/encoda/src/codecs/xlsx)
 
 ## Development and deployment
 
