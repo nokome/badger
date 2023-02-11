@@ -5,7 +5,7 @@
   "dependencies": {
     "badgen": "^2.7.1",
     "express": "^4.16.4",
-    "got": "^9.6.0",
+    "got": "^12.5.3",
     "helmet": "^3.18.0"
   },
   "devDependencies": {
